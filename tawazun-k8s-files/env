@@ -1,0 +1,7 @@
+
+-e DB_URL=db 
+-e DB_PORT=3306
+-e DB_NAME=tawazun
+-e DB_USERNAME=root
+-e DB_PASSWORD=DevOps2022
+
